@@ -18,7 +18,8 @@ request.onload=function(){
 
     for(i=0;i<data.length;i++)
     {
-         console.log(data[i].flag);
+        console.log(data[i].name);
+        console.log(data[i].flag);
          
     }
    
